@@ -1,3 +1,5 @@
+Editor inline sem senha
+
 Autor: Simon Perdrisat 2009
 
 AVISO: Este projeto é um prof de conceito NÃO UTILIZE NA PRODUÇÃO !!!
